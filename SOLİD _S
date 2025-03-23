@@ -1,0 +1,2 @@
+Bu yanaşmada hər sinfin yalnız bir məsuliyyəti var. Məsələn, User sinfi sadəcə məlumatları saxlayır,
+UserValidator yalnız doğrulama ilə məşğul olur və s.
