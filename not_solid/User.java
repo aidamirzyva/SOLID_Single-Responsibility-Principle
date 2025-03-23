@@ -5,7 +5,6 @@ public class User {
     private String email;
 
     public boolean validate() {
-        // Email formatının doğrulanması
         if (!email.contains("@")) {
             return false;
         }
